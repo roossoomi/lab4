@@ -11,6 +11,7 @@ public class Inhabitants {
             this.energyConsumption[i] = new int[daysInMonth];
             for (int j = 0; j < daysInMonth; j++) {
                 this.energyConsumption[i][j] = (int) (Math.random() * 1000);
+                cn saml;
 
             }
         }
